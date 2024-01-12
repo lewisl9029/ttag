@@ -1,8 +1,8 @@
 {
-  "name": "ttag",
-  "version": "1.8.6",
+  "name": "@lewisl9029/ttag",
+  "version": "1.8.6-2",
   "description": "",
-  "main": "index.js",
+  "main": "dist/ttag.min.js",
   "keywords": [
     "gettext",
     "translations",
